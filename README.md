@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/stopwatch-app.git
+git clone https://github.com/yashbhole3010/stopwatch-app.git
 Navigate to the project folder:
 
 bash
@@ -44,7 +44,7 @@ Open index.html in your browser.
 
 
 🌐 Live Demo
-[View Stopwatch App on GitHub Pages](https://yashbhole3010.github.io/stopwatch-app/)
+[View Stopwatch App on GitHub Pages] (https://yashbhole3010.github.io/stopwatch-app/)
 
 
 🧠 Challenges Faced
