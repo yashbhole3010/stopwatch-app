@@ -44,7 +44,7 @@ Open index.html in your browser.
 
 
 🌐 Live Demo
-View Stopwatch App on GitHub Pages
+[View Stopwatch App on GitHub Pages](https://yashbhole3010.github.io/stopwatch-app/)
 
 
 🧠 Challenges Faced
