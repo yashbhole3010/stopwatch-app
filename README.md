@@ -44,7 +44,7 @@ Open index.html in your browser.
 
 
 🌐 Live Demo
-[View Stopwatch App on GitHub Pages] (https://yashbhole3010.github.io/stopwatch-app/)
+[View Stopwatch App on GitHub Pages] (https://yashbhole3010.github.io/stopwatch-app-credora_task1/)
 
 
 🧠 Challenges Faced
